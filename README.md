@@ -233,10 +233,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Abhinav Kumar**
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+**Rohan Kumar**
+- GitHub: rohan911438
+- LinkedIn: rohan-kumar-1a60b7314
+- Email:123131rkorohan@gmail.com
 
 ## 🙏 Acknowledgments
 
